@@ -13,21 +13,32 @@
 
 ## ⚙️ Cara Install
 
-1. **Clone repo ini**:
-   ```
+1. **Clone Repository**  
+   ```bash
    git clone https://github.com/KaisarYetiandi/C2Hunter.git
-2. **Membuka Folder**
+   ```  
+
+2. **Masuk ke Folder Project**  
    ```
    cd C2Hunter
-3. **Install requirements**
+   ```  
+
+3. **Install Dependencies**  
    ```
-  pip3 install -r requirements.txt
-4. **Jalankan versi Terminal**
+   pip install -r requirements.txt
+   ```  
+
+4. **Jalankan Versi Terminal**  
    ```
-   main.py
+   python main.py --ip [TARGET_IP]
+   ```  
+   *Contoh:*  
    ```
-5 **Versi Gui**
+   python main.py --ip 192.168.1.100
+   ```  
+
+5. **Jalankan Versi GUI** 
    ```
    python -m gui.main_window
-   
+   ```  
    
