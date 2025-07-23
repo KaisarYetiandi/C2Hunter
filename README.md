@@ -14,8 +14,12 @@
 ## ⚙️ Cara Install
 
 1. **Clone repo ini**:
-   ```bash
+   ```
    git clone https://github.com/KaisarYetiandi/C2Hunter.git
-2. **Membuka Folder*
+2. **Membuka Folder**
    ```cd C2Hunter
    ```
+3. **install requirements**
+   ```requirements.txt
+   ```
+
