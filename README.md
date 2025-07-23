@@ -1,6 +1,6 @@
 # C2Hunter 
 ![screenshot](https://github.com/KaisarYetiandi/C2Hunter/blob/main/assests/icons/c2hunter.png)
-**C2Hunter** adalah tools buat ngintip domain-domain mencurigakan yang mungkin terkait dengan C2 (server malware atau rat) server dari sebuah IP target. Tools ini bakal ngambil data dari VirusTotal, analisis, terus kasih laporan lengkap plus visualisasi keren!
+**C2Hunter** adalah tools buat ngintip domain-domain mencurigakan yang mungkin terkait dengan C2 (server malware atau rat) server dari sebuah IP target!.
 
 ## Fitur Utama
 
