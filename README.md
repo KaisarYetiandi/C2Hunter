@@ -4,12 +4,12 @@
 
 ## 🧠 Fitur Utama
 
-- ✅ Fetching domain terkait dari IP target via VirusTotal API  
-- ✅ Analisis otomatis indikator C2 (Command & Control)  
-- ✅ Deteksi risiko domain (malicious, suspicious, dll)  
-- ✅ Generate report dalam format JSON & Markdown  
-- ✅ Visualisasi hubungan domain dalam bentuk graph interaktif  
-- ✅ Limit jumlah domain yang di-scan (biar ga kebanyakan)
+- Fetching domain terkait dari IP target via VirusTotal API  
+- Analisis otomatis indikator C2 (Command & Control)  
+- Deteksi risiko domain (malicious, suspicious, dll)  
+- Generate report dalam format JSON & Markdown  
+- Visualisasi hubungan domain dalam bentuk graph interaktif  
+- Limit jumlah domain yang di-scan (biar ga kebanyakan)
 
 ## ⚙️ Cara Install
 
