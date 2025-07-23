@@ -11,7 +11,7 @@
 - Visualisasi hubungan domain dalam bentuk graph interaktif  
 - Limit jumlah domain yang di-scan (biar ga kebanyakan)
 
-## ⚙️ Cara Install
+## Cara Install
 
 1. **Clone Repository**  
    ```bash
