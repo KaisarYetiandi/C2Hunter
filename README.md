@@ -41,4 +41,10 @@
    ```
    python -m gui.main_window
    ```  
-   
+   ![screenshot](https://github.com/KaisarYetiandi/C2Hunter/blob/main/c2hunter.png)
+
+## ⚠️ Disclaimer 
+   **Tools ini dibuat hanya untuk edukasi dan pembelajaran saja, Aing tidak akan bertanggung jawab bila terjadi sesuatu        yang tidak diinginkan**
+
+## Contact
+   **Email: DarknesEmperor@proton.me**
