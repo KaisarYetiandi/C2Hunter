@@ -17,9 +17,19 @@
    ```
    git clone https://github.com/KaisarYetiandi/C2Hunter.git
 2. **Membuka Folder**
-   ```cd C2Hunter
    ```
-3. **install requirements**
-   ```requirements.txt
+   cd C2Hunter
    ```
-
+3. **Install requirements**
+   ```
+  pip3 install -r requirements.txt
+   ```
+4. **Jalankan versi Terminal**
+   ```
+   main.py
+   ```
+5 **Versi Gui**
+   ```
+   python -m gui.main_window
+   ```
+   
