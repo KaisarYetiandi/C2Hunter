@@ -15,5 +15,7 @@
 
 1. **Clone repo ini**:
    ```bash
-   git clone https://github.com/username-anda/C2Hunter.git
-   cd C2Hunter
+   git clone https://github.com/KaisarYetiandi/C2Hunter.git
+2. **Membuka Folder*
+   ```cd C2Hunter
+   ```
